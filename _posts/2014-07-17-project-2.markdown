@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-09-10
-img: RisingStargirlsLogo.ong
+img: RisingStargirlsLogo.png
 alt: image-alt
 project-date: April 2020 - Current
 <!-- client: Start Bootstrap -->
