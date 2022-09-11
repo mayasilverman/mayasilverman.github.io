@@ -39,9 +39,9 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/maya-silverman-112b2111b/
-  - title: iNSPIRE HEP
+  - title: inspirehep
     url: https://inspirehep.net/authors/2055673
   - title: github
     url: http://github.com/mayasilverman
